@@ -3,9 +3,15 @@
 
 #include <iostream>
 
-int main()
+namespace pzz_5 
 {
-    std::cout << "Hello World!\n";
+    Class Program;
+    {
+        statik void Main(string[] args)
+        {
+            Console.Writeline("работа с git")
+        }
+    }
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
